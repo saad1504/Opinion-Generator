@@ -12,6 +12,7 @@ Install it using following pip command:
 
 
 * TextBlob: [textblob](http://textblob.readthedocs.io/en/dev/) is the python library for processing textual data.
+
 Install it using following pip command:
 
 ```javascript pip install textblob```
