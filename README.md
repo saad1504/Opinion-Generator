@@ -7,8 +7,8 @@ Find people's opinion on any topic of your choice using sentiment anlysis
 * Tweepy: [tweepy](http://docs.tweepy.org/en/v3.5.0/) is the python client for the official [Twitter API](https://dev.twitter.com/rest/public).
 
 Install it using following pip command:
-```javascript
-	pip install tweepy```
+```javascript pip install tweepy```
+
 
 * TextBlob: [textblob](http://textblob.readthedocs.io/en/dev/) is the python library for processing textual data.
 Install it using following pip command:
